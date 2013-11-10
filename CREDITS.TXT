@@ -1,0 +1,9 @@
+---------------------------------------------------------------------------------------
+Source https://www.iconfinder.com/search/?q=iconset%3Afree-3d-glossy-interface-icon-set
+by Aha-Soft , 54 icons total, Format: raster icons
+License: Creative Commons (Attribution 3.0 Unported) 
+
+Icons:
+Error_size.png
+Warning_size.png
+---------------------------------------------------------------------------------------
