@@ -1,3 +1,17 @@
+.csc-header {
+	background:#3b3b3b; 
+	border-bottom: 2px solid gray;
+}
+
+.csc-footer {
+	background:#3b3b3b; 
+	border-top: 2px solid gray; 
+	color: white; 
+	text-align: right; 
+	padding: 5px; 
+	padding-right: 10px;
+}
+
 .csc-error-container {
 	border: 2px solid red;  background: #eee; color: red; font-weight: bold; padding: 5px; padding-left: 15px; font-family: Arial;
 }
