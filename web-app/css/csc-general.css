@@ -28,3 +28,15 @@
 	color: black; font-weight: normal; padding: 5px; padding-left: 15px; font-family: Arial;
 	border-left: 5px solid #eee;
 }
+
+h1 {
+	font-size: 24px;
+}
+
+h2 {
+	font-size: 20px;
+}
+
+h3 {
+	font-size: 16px;
+}
