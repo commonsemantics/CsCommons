@@ -12,6 +12,15 @@
 	padding-right: 10px;
 }
 
+.csc-main {
+	padding-left: 10px;
+}
+
 .csc-error-container {
 	border: 2px solid red;  background: #eee; color: red; font-weight: bold; padding: 5px; padding-left: 15px; font-family: Arial;
+}
+
+.csc-lens-container {
+	color: black; font-weight: normal; padding: 5px; padding-left: 15px; font-family: Arial;
+	border-left: 5px solid #eee;
 }

@@ -9,7 +9,7 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		
-		<title>Commonsemantics.org: <g:layoutTitle default="${grailsApplication.metadata['app.name']}"/></title>
+		<title><g:layoutTitle default="${grailsApplication.metadata['app.name']}"/> (Commonsemantics.org)</title>
 		
 		<link rel="shortcut icon" href="${resource(dir: 'images', file: 'favicon.ico')}" type="image/x-icon">
 		<link rel="stylesheet" type="text/css" href="${resource(dir: 'css', file: 'csc-general.css', plugin: 'cs-commons')}" />
@@ -21,6 +21,7 @@
 	<body style="padding:0px; border:0px; margin: 0px; font-family:courier,Georgia,Serif; font-size: 90%">
 		<g:render template="/header"  plugin="cs-commons" />
 		<g:layoutBody/>
+		<br/>
 		<g:render template="/footer"  plugin="cs-commons" />
         <r:layoutResources />
 	</body>
