@@ -17,7 +17,11 @@
 }
 
 .csc-error-container {
-	border: 2px solid red;  background: #eee; color: red; font-weight: bold; padding: 5px; padding-left: 15px; font-family: Arial;
+	border: 2px solid red;  background: #eee; color: #555; font-weight: bold; padding: 5px; padding-left: 15px; font-family: Arial; width: 100%;
+}
+
+.csc-warning-container {
+	border: 2px solid #FFCC22;  background: #eee; color: #555; font-weight: bold; padding: 5px; padding-left: 15px; font-family: Arial; width: 100%;
 }
 
 .csc-lens-container {
