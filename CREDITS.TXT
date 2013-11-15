@@ -4,6 +4,7 @@ by Aha-Soft , 54 icons total, Format: raster icons
 License: Creative Commons (Attribution 3.0 Unported) 
 
 Icons:
+Accept_size.png
 Error_size.png
 Warning_size.png
 ---------------------------------------------------------------------------------------
