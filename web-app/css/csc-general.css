@@ -17,11 +17,11 @@
 }
 
 .csc-error-container {
-	border: 2px solid red;  background: #eee; color: #555; font-weight: bold; padding: 5px; padding-left: 15px; font-family: Arial; width: 100%;
+	border: 2px solid red;  background: #eee; color: #555; font-weight: bold; padding: 5px; padding-left: 15px; font-family: Arial;
 }
 
 .csc-warning-container {
-	border: 2px solid #FFCC22;  background: #eee; color: #555; font-weight: bold; padding: 5px; padding-left: 15px; font-family: Arial; width: 100%;
+	border: 2px solid #FFCC22;  background: #eee; color: #555; font-weight: bold; padding: 5px; padding-left: 15px; font-family: Arial; 
 }
 
 .csc-field-error {
@@ -33,10 +33,11 @@
     margin: 0px;
     position: relative;
     z-index: 9;
-    height: 16px;
+    height: 13px;
     padding: 0;
     padding-bottom: 10px;
     font-style:italic;
+    font-size:12px;
 }
 .csc-error-message ul li {
     float: left;
@@ -50,15 +51,36 @@
 
 
 h1 {
+	font-weight: bold;
 	font-size: 24px;
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
 
 h2 {
+	font-weight: bold;
 	font-size: 20px;
+	padding-top: 8px;
+	padding-bottom: 8px;
 }
 
 h3 {
+	font-weight: bold;
 	font-size: 16px;
+	padding-top: 8px;
+	padding-bottom: 6px;
 }
 
+table.tabletest td, table.tabletest th {
+	line-height: 20px;
+	padding: 6px 4px;
+	text-align: left;
+	vertical-align: top;
+}
+
+table.tabletest th {
+	font-weight: bold;
+	line-height: 20px;
+	padding: 6px 4px;
+}
 
